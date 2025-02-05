@@ -406,3 +406,6 @@ FodyWeavers.xsd
 .idea/vcs.xml
 .idea/jsLibraryMappings.xml
 .idea/datasources.xml
+
+# Dotnet Tools
+**/.config/
